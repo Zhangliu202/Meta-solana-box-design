@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Terms of Service](README.md)
+* [Meta bot Guidline](meta-bot-guidline/README.md)
+  * [☢️ Start using bot](meta-bot-guidline/start-using-bot.md)
+  * [💰 Import / Create wallet](meta-bot-guidline/import-create-wallet.md)
+  * [💸 Sending/Receiving Funds](meta-bot-guidline/sending-receiving-funds.md)
+  * [💵 Balance Check](meta-bot-guidline/balance-check.md)
+  * [💰 Activate/Deactivate wallets](meta-bot-guidline/activate-deactivate-wallets.md)
+  * [⛽ Slippage and Transaction Fee Settings](meta-bot-guidline/slippage-and-transaction-fee-settings.md)
+  * [🛒 Buy/Sell Transactions](meta-bot-guidline/buy-sell-transactions.md)
+  * [🛡️ Anti-MEV Protection](meta-bot-guidline/anti-mev-protection.md)
+* [Security](security.md)
+* [Support and contact](support-and-contact.md)
+* [Commission and Ranking Structure](commission-and-ranking-structure.md)
